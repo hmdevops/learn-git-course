@@ -1,8 +1,7 @@
 this file is main learn projects   edited
-
 line1 added
-
 line2 added edited
+<<<<<<< HEAD
 line 3 edited
 line 4
 line 5
@@ -10,3 +9,8 @@ line 6
 line 7 edited
 line 8
 line 9 (new line added to merge test )
+=======
+line3 added in pycharm IDE
+line4 added just line3
+
+>>>>>>> 484a33c0888f507f52bf0fdd8ded4c0aa55bdf3b
